@@ -14,4 +14,4 @@
 |2022|ICLab|MH(Morphology Processing Unit)|Image processing unit supported for histogram equalization, erosion and dilation optimized by double flop|Image processing, CDC(Clock Domain Crossing)|no link now|
 |2023|SoCLab|WLOS(Workload Optimized System)|With workload quick sort, matrix multiplication and FIR run on simple RSIC-V(vex), transmitted data by UART interface and verified on FPGA using PYNQ-Z2|FPGA, SoC, embedded programming|[repo](https://github.com/bol-edu/caravel-soc_fpga-lab/tree/main/lab-wlos_baseline)|
 |2023|VLSI-CAD symposium|Accelerating CNNs for Particle Energy Reconstruction on FPGAs|DeepCalo: An application based on CNN deployed on Alveo U50 with dataflow architecture optimized by quantization-aware training|quantization, FPGA|poster|
-|2024|research|sequence-length-unrelated transformer architecture with hardware-aware architecture search|----|transformer, hls4ml, hls, FPGA|no link now|
+|2024|research|sequence-length-unrelated transformer architecture with hardware-aware architecture search|----|transformer, hls4ml, hls, FPGA, post-training quantization|no link now|
